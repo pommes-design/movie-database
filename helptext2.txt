@@ -1,0 +1,29 @@
+<p><u>Besties:</u><br />
+Es werden alle Filme die mit 8 oder besser bewertet wurden, vorgeschlagen.</p>
+
+<p><u>Zufall:</u><br />
+Schickt einen zufällig ausgewählten Film ohne irgendwelche Suchkriterien.</p>
+
+<p><u>Alles:</u><br />
+Schickt eine Übersicht aller eingetragenen Filme</p>
+
+<p>viel Spaß wünscht <b>Alexander Wiltz</b></p>
+<hr></hr>
+<p>Für alle Filmfreunde: <a href="https://www.imdb.com/calendar/?ref_=nv_mv_cal">Alle Neuerscheinungen auf IMDB</a></p>
+<hr></hr>
+<p><u>Wichtiger Hinweis:</u><br />
+Die Formatreglen müssen eingehalten werden sonst kommen keine Infos!</p>
+
+<p><u>Regeln:</u><br />
+Werden mehr als drei Mails innerhalb einer Minute als Abfrage gesandt wird eine
+temporäre Sperre von 5 Minuten eingestellt.
+Bei mehr als drei Sperren innerhalb einer Stunde, wird man dauerhaft gesperrt und kann nur auf Anfrage
+vom Servicebetreiber entsperrt werden!</p>
+<hr></hr>
+<p><u>Nutzungshinweis:</u><br />
+Aus Performancegründen und Schutzgründen des Diensteservers werden die anfragenden Adressen gespeichert. Es erfolgt
+keine Weitergabe oder anderweitige Nutzung der LOGFiles.<br />
+Sind Sie nicht mit dem Speichern Ihrer Adresse einverstanden, kann die Adresse gelöscht werden und der Service sollte nicht
+mehr genutzt werden!</p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+Test;1990;Peter;Comedy;7
+MasterBlaster;2018;Ich höchst selbst;Action;10
+Prima Ballerina;2018;Alexander;Bollywood;10
+Testeintrag;2017;Peter;Comedy;6
+MasterTest;2005;Peterchen;Comedy;8
+Test;1934;Hans Peter;Action;6
+Testfilm;1998;Manfred der Üble;Comedy;9
+Probe;1900;Ralf;Endzeit;10
+Brotzeit;2018;Alexander Wiltz;Comedy;9
+Probefilm;2005;Igor;Endzeit;9
+Liebe;2017;Leni;Romantik;3
+Testeintrag die Zweite;1990;Bandit;Endzeit;8
+Brandneu;2018;Manfred;Thriller;10

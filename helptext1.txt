@@ -1,0 +1,12 @@
+<html>
+<head></head>
+<body>
+<p><b>+++ Hilfe zu Alex Filmdatenbank +++</b></p>
+
+<p><u>Bewertung [x]:</u><br /><font color="red">IN ARBEIT</font>
+Um einen Film nach persönlichen Bewertungen zu erhalten, als Betreff: 
+Bewertung 1 (oder eine Zahl bis einschl 10)</p>
+
+<p><u>[Genre]:</u><br /><font color="red">IN ARBEIT</font>
+Um einen Filmtipp nach Genre zu bekommen, einfach das gewünschte Genre eingeben. <br>
+-> Für eine Genreübersicht einfach Genrehilfe als Betreff senden.</p>

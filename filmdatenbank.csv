@@ -1,0 +1,479 @@
+Nr;Film;Erscheinungsjahr;Regisseur;Genre;Bewertung
+1;(500) Days of Summer;2009;Marc Webb;;3
+2;12 Strong: Die wahre Geschichte der US-Horse Soldiers;2018;Nicolai Fuglsig;;8
+3;13 Hours: The Secret Soldiers of Benghazi;2016;Michael Bay;;8
+4;2 Fast 2 Furious;2003;John Singleton;;7
+5;2 Guns;2013;Baltasar KormÃ¡kur;;6
+6;3 Days to Kill;2014;McG ;;7
+7;300;2006;Zack Snyder;;9
+8;300: Rise of an Empire;2014;Noam Murro;;7
+9;47 Ronin;2013;Carl Rinsch;;6
+10;72 Stunden: The Next Three Days;2010;Paul Haggis;;7
+11;8 Mile;2002;Curtis Hanson;;9
+12;96 Hours;2008;Pierre Morel;;7
+13;96 Hours-Taken 2;2012;Olivier Megaton;;7
+14;A Beautiful Mind: Genie und Wahnsinn;2001;Ron Howard;;8
+15;A War;2015;Tobias Lindholm;;5
+16;Abraham Lincoln Vampirjäger;2012;Timur Bekmambetov;;6
+17;Acts of Violence;2018;Brett Donowho;;7
+18;After Earth;2013;M. Night Shyamalan;;7
+19;Aladdin;1992;Ron Clements;Disney;0
+20;Alice im Wunderland;1951;Clyde Geronimi;Disney;0
+21;Alice im Wunderland: Hinter den Spiegeln;2016;James Bobin;Fantasy;8
+22;Allied: Vertraute Fremde;2016;Robert Zemeckis;;7
+23;American Sniper;2014;Clint Eastwood;;9
+24;Anonymus;2011;Roland Emmerich;;7
+25;Ant-Man;2015;Peyton Reed;;6
+26;Ant-Man and the Wasp;2018;Peyton Reed;;7
+27;Arielle, die Meerjungfrau;1989;Ron Clements;Disney;0
+28;Arielle, die Meerjungfrau: Wie alles begann;2008;;Disney;0
+29;Aristocats;1970;Wolfgang Reitherman;Disney;0
+30;Assassin's Creed;2016;Justin Kurzel;;7
+31;Atomic Blonde;2017;David Leitch;;5
+32;Avengers: Age of Ultron;2015;Joss Whedon;;7
+33;Avengers: Infinity War;2018;Anthony Russo;;6
+34;Bad Boys - Harte Jungs;1995;Michael Bay;;8
+35;Bad Boys II;2003;Michael Bay;;8
+36;Bad Neighbors;2014;Nicholas Stoller;Komödie;5
+37;Bambi;1942;David Hand;Disney;0
+38;Band Of Brothers;2001;David Frankel;Kriegsdrama;10
+39;Barry Seal: Only in America;2017;Doug Liman;;8
+40;Batman Begins;2005;Christopher Nolan;;8
+41;Batman v Superman: Dawn of Justice;2016;Zack Snyder;;8
+42;Battleground: Helden im Feuersturm;2013;Johan Earl;;4
+43;Battleship;2012;Peter Berg;;7
+44;Beautiful Creatures;2013;Richard LaGravenese;;7
+45;Begabt: Die Gleichung eines Lebens;2017;Marc Webb;;7
+46;Better watch out;2016;Chris Peckover;;5
+47;Black Hawk Down;2001;Ridley Scott;;8
+48;Black Panther;2018;Ryan Coogler;;9
+49;Blind Side: Die grosse Chance;2009;John Lee Hancock;Drama;8
+50;Blitz;2011;Elliott Lester;;6
+51;Blood Father;2016;Jean-FranÃ§ois Richet;;7
+52;Boston;2016;Peter Berg;;6
+53;Brick Mansions;2014;Camille Delamarre;;7
+54;Bridge of Spies: Der Unterhändler;2015;Steven Spielberg;;9
+55;Brimstone: Erlöse uns von dem Bösen;2016;Martin Koolhoven;;8
+56;Broken City;2013;Allen Hughes;;6
+57;Brothers;2009;Jim Sheridan;Drama;9
+58;Captain America: The First Avenger;2011;Joe Johnston;;8
+59;Captain Phillips;2013;Paul Greengrass;;7
+60;Cars;2006;John Lasseter;Disney;0
+61;Cars 2;2011;John Lasseter;Disney;0
+62;Cars 3: Evolution;2017;Brian Fee;Disney;0
+63;Casino Royale;2006;Martin Campbell;;7
+64;Cast Away: Verschollen;2000;Robert Zemeckis;;9
+65;Cat Run;2011;John Stockwell;;7
+66;Catch Me If You Can;2002;Steven Spielberg;;8
+67;Central Intelligence;2016;Rawson Marshall Thurber;;5
+68;Chronicle: Wozu bist du fähig?;2012;Josh Trank;;8
+69;Chroniken der Unterwelt: City of Bones;2013;Harald Zwart;;6
+70;Cinderella;2015;Kenneth Branagh;;
+71;Cinderella;1950;Clyde Geronimi;Disney;0
+72;Cloud Atlas;2012;Tom Tykwer;;5
+73;Codename U.N.C.L.E.;2015;Guy Ritchie;;8
+74;Coriolanus;2011;Ralph Fiennes;;4
+75;Crank;2006;Mark Neveldine;Action;6
+76;Crank 2 - High Voltage;2009;Mark Neveldine;Action;6
+77;Criminal Squad;2018;Christian Gudegast;;8
+78;Daredevil;2003;Mark Steven Johnson;;5
+79;Dark Shadows;2012;Tim Burton;;7
+80;Das A-Team: Der Film;2010;Joe Carnahan;;6
+81;Das Beste kommt zum Schluss;2007;Rob Reiner;Drama;9
+82;Das Bourne Ultimatum;2007;Paul Greengrass;Action;7
+83;Das Bourne Vermächtnis;2012;Tony Gilroy;Action;7
+84;Das Dschungelbuch;1967;Wolfgang Reitherman;Disney;0
+85;Das Parfum: Die Geschichte eines Mörders;2006;Tom Tykwer;;7
+86;Das Schwergewicht;2012;Frank Coraci;Komödie;6
+87;Das Tagebuch der Anne Frank;2016;Hans Steinbichler;Drama;8
+88;Das gibt Ärger;2012;McG ;Komödie;7
+89;Das perfekte Verbrechen;2007;Gregory Hoblit;;7
+90;Deadpool;2016;Tim Miller;;9
+91;Deadpool 2;2018;David Leitch;;8
+92;Death Wish;2018;Eli Roth;;
+93;Defiance;2008;Edward Zwick;;7
+94;Der Glöckner von Notre Dame;1996;Gary Trousdale;Disney;0
+95;Der Hauptmann;2017;Robert Schwentke;;7
+96;Der Hobbit: Die Schlacht der fünf Heere;2014;Peter Jackson;Fantasy;8
+97;Der Hobbit: Eine unerwartete Reise;2012;Peter Jackson;Fantasy;8
+98;Der Hobbit: Smaugs Einöde;2013;Peter Jackson;Fantasy;8
+99;Der König der Löwen;1994;Roger Allers;Disney;0
+100;Der Marsianer - Rettet Mark Watney;2015;Ridley Scott;;9
+101;Der Medicus;2013;Philipp StÃ¶lzl;;8
+102;Der Pianist;2002;Roman Polanski;Drama;8
+103;Der Soldat James Ryan;1998;Steven Spielberg;Kriegsdrama;9
+104;Der Staatsfeind Nr. 1;1998;Tony Scott;;
+105;Der blutige Pfad Gottes;1999;Troy Duffy;;8
+106;Der blutige Pfad Gottes 2;2009;Troy Duffy;;8
+107;Der dunkle Turm;2017;Nikolaj Arcel;;7
+108;Der gestiefelte Kater;2011;Chris Miller;Disney;0
+109;Der grosse Gatsby;2013;Baz Luhrmann;;8
+110;Der unglaubliche Hulk;2008;Louis Leterrier;;7
+111;Die Bestimmung: Divergent;2014;Neil Burger;;7
+112;Die Bourne Identität;2002;Doug Liman;;7
+113;Die Bourne Verschwörung;2004;Paul Greengrass;;7
+114;Die Croods;2013;Kirk De Micco;Disney;0
+115;Die Eiskönigin: Völlig Unverfroren;2013;Chris Buck;Disney;0
+116;Die Entdeckung der Unendlichkeit;2014;James Marsh;;8
+117;Die Legende der Wächter;2010;Zack Snyder;Disney;0
+118;Die Liga der außergewöhnlichen Gentlemen;2003;Stephen Norrington;;7
+119;Die Schadenfreundinnen;2014;Nick Cassavetes;;6
+120;Die Schöne und das Biest;2014;Christophe Gans;;7
+121;Die Schöne und das Biest;2017;Bill Condon;;9
+122;Die Schöne und das Biest;1991;Gary Trousdale;Disney;0
+123;Die Tribute von Panem: Catching Fire;2013;Francis Lawrence;;8
+124;Die Tribute von Panem: Mockingjay - Teil 1;2014;Francis Lawrence;;8
+125;Die Tribute von Panem: Mockingjay - Teil 2;2014;Francis Lawrence;;8
+126;Die Tribute von Panem: The Hunger Games;2012;Gary Ross;;8
+127;Die Twilight Saga: Breaking Dawn: Bis(s) zum Ende der Nacht - Teil 2;2012;Bill Condon;;7
+128;Die Unfassbaren 2: Now You See Me;2016;Jon M. Chu;;6
+129;Die Unfassbaren: Now You See Me;2013;Louis Leterrier;;7
+130;Die Wanderhure;2010;Hansjörg Thurn;Drama;6
+131;Die Rache der Wanderhure;2012;Hansjörg Thurn;Drama;6
+132;Das Vermächtnis der Wanderhure;2012;Thomas Nennstiel;Drama;6
+133;Die drei Musketiere;2011;Paul W.S. Anderson;;7
+134;Die dunkelste Stunde;2017;Joe Wright;;7
+135;Die fantastische Welt von Oz;2013;Sam Raimi;;7
+136;Die glorreichen Sieben;2016;Antoine Fuqua;;9
+137;Die irre Heldentour des Billy Lynn;2016;Ang Lee;;6
+138;Django Unchained;2012;Quentin Tarantino;;9
+139;Doctor Strange;2016;Scott Derrickson;;6
+140;Dornröschen;1959;Clyde Geronimi;Disney;0
+141;Dracula Untold;2014;Gary Shore;;8
+142;Dredd;2012;Pete Travis;;8
+143;Dumbo;1941;Samuel Armstrong;Disney;0
+144;Dunkirk;2017;Christopher Nolan;;6
+145;Edge of Tomorrow: Live.Die.Repeat;2014;Doug Liman;;8
+146;Ein Quantum Trost;2008;Marc Forster;;7
+147;Ein ganzes halbes Jahr;2016;Thea Sharrock;Drama;8
+148;Elysium;2013;Neill Blomkamp;;6
+149;Er ist wieder da;2015;David Wnendt;Komödie;7
+150;Escape Plan;2013;Mikael HÃ¥fstrÃ¶m;;6
+151;Fack ju Göhte;2013;Bora Dagtekin;;7
+152;Fack ju Göhte 2;2015;Bora Dagtekin;;5
+153;Fack ju Göhte 3;2017;Bora Dagtekin;;6
+154;Fantastic Four;2015;Josh Trank;;7
+155;Fantastic Four;2005;Tim Story;;6
+156;Fantastic Four: Rise of The Silver Surfer;2007;Tim Story;;6
+157;Fast & Furious;2009;Justin Lin;;8
+158;Fast & Furious 5;2011;Justin Lin;;6
+159;Fast & Furious 6;2013;Justin Lin;;6
+160;Feinde - Hostiles;2017;Scott Cooper;;9
+161;Fences;2016;Denzel Washington;;7
+162;Fifty Shades of Grey - Gefährliche Liebe;2017;James Foley;;7
+163;Fifty Shades of Grey: Befreite Lust;2018;James Foley;;7
+164;Fifty Shades of Grey: Geheimes Verlangen;2015;Sam Taylor-Johnson;;6
+165;Fighting;2009;Dito Montiel;;7
+166;Flags of our Fathers;2006;Clint Eastwood;;8
+167;Flight;2012;Robert Zemeckis;;8
+168;Forrest Gump;1994;Robert Zemeckis;;10
+169;Frau Ella;2013;Markus Goller;;8
+170;Free State of Jones;2016;Gary Ross;;9
+171;G.I. Joe: Die Abrechnung;2013;Jon M. Chu;;7
+172;G.I. Joe: Geheimauftrag Cobra;2009;Stephen Sommers;;6
+173;Game Night;2018;John Francis Daley;;6
+174;Game of Thrones: Die Komplette dritte Staffel;2013;Alan Taylor;;10
+175;Game of Thrones: Die komplette erste Staffel;2011;Alan Taylor;;10
+176;Game of Thrones: Die komplette fünfte Staffel;2015;Alan Taylor;;10
+177;Game of Thrones: Die komplette sechste Staffel;2016;Alan Taylor;;10
+178;Game of Thrones: Die komplette vierte Staffel;2014;Alan Taylor;;10
+179;Game of Thrones: Die komplette zweite Staffel;2011;Alan Taylor;;10
+180;Gamer;2009;Mark Neveldine;;7
+181;Gangster Squad;2013;Ruben Fleischer;;6
+182;Ghost in the Shell;2017;Rupert Sanders;;7
+183;Gladiator;2000;Ridley Scott;;6
+184;Gods of Egypt;2016;Alex Proyas;;6
+185;Godzilla;2014;Gareth Edwards;;7
+186;Green Lantern;2011;Martin Campbell;;7
+187;Guardians of the Galaxy;2014;James Gunn;;8
+188;Guardians of the Galaxy Vol. 2;2016;James Gunn;;7
+189;Hacksaw Ridge: Die Entscheidung;2016;Mel Gibson;;8
+190;Hancock;2008;Peter Berg;;7
+191;Harry Potter und der Feuerkelch;2005;Mike Newell;;9
+192;Harry Potter und der Gefangene von Askaban;2004;Alfonso CuarÃ³n;;9
+193;Harry Potter und der Halbblutprinz;2009;David Yates;;9
+194;Harry Potter und der Orden des Phönix;2007;David Yates;;9
+195;Harry Potter und der Stein der Weisen;2001;Chris Columbus;;9
+196;Harry Potter und die Heiligtümer des Todes: Teil 1;2010;David Yates;;9
+197;Harry Potter und die Heiligtümer des Todes: Teil 2;2011;David Yates;;9
+198;Harry Potter und die Kammer des Schreckens;2002;Chris Columbus;;9
+199;Haywire;2011;Steven Soderbergh;;5
+200;Hänsel & Gretel: Hexenjäger;2013;Tommy Wirkola;;6
+201;Herz aus Stahl;2014;David Ayer;;9
+202;Hidden Figures: Unerkannte Heldinnen;2016;Theodore Melfi;;9
+203;Hitman: Agent 47;2015;Aleksander Bach;;8
+204;Hitman: Jeder stirbt alleine;2007;Xavier Gens;;7
+205;Homefront;2013;Gary Fleder;;8
+206;Honig im Kopf;2014;Til Schweiger;;7
+207;Hot Dog;2018;Torsten KÃ¼nstler;;6
+208;How to Be Single;2016;Christian Ditter;;6
+209;I, Frankenstein;2014;Stuart Beattie;;7
+210;Ich: Einfach unverbesserlich;2010;Pierre Coffin;;5
+211;Ich: Einfach unverbesserlich 2;2013;Pierre Coffin;;5
+212;Illuminati;2009;Ron Howard;;8
+213;The Da Vinci Code: Sakrileg;;;;8
+214;Inception;2010;Christopher Nolan;;7
+215;Indiana Jones - Jäger des verlorenen Schatzes;1981;Steven Spielberg;;10
+216;Indiana Jones und das Königreich des KristallschÃ¤dels;2008;Steven Spielberg;;10
+217;Indiana Jones und der Tempel des Todes;1984;Steven Spielberg;;10
+218;Indiana Jones und der letzte Kreuzzug;1989;Steven Spielberg;;10
+219;Inferno;2016;Ron Howard;;7
+220;Inglourious Basterds;2009;Quentin Tarantino;;9
+221;Inside Man;2006;Spike Lee;;8
+222;Into the White;2012;Petter NÃ¦ss;;9
+223;Into the Woods;2014;Rob Marshall;;
+224;Ip Man;2008;Wilson Yip;;6
+225;Ip Man 2;2010;Wilson Yip;;5
+226;Ip Man Zero;2010;Herman Yau;;5
+227;Iron Man;2008;Jon Favreau ;;8
+228;Iron Man 2;2010;Jon Favreau ;;7
+229;Iron Man 3;2013;Shane Black;;7
+230;Jack Reacher;2012;Christopher McQuarrie;;9
+231;Jack Reacher: Kein Weg zurück;2016;Edward Zwick;;8
+232;Jack Ryan: Shadow Recruit;2014;Kenneth Branagh;;7
+233;Jack and the Giants;2013;Bryan Singer;;7
+234;Jarhead: Willkommen im Dreck;2005;Sam Mendes;;8
+235;Jason Bourne;2016;Paul Greengrass;;7
+236;Jim Knopf & Lukas der Lokomotivführer;2018;Dennis Gansel;;8
+237;John Wick;2014;Chad Stahelski;;10
+238;John Wick: Kapitel 2;2017;Chad Stahelski;;9
+239;Jurassic Park;1993;Steven Spielberg;;7
+240;Jurassic Park III;2001;Joe Johnston;;7
+241;Jurassic World;2015;Colin Trevorrow;;8
+242;Jurassic World: Das gefallene Königreich;2018;J.A. Bayona;;8
+243;Justice League;2017;Zack Snyder;;8
+244;Kampf der Kobolde;1999;John Henderson;;
+245;Kampf der Titanen;2010;Louis Leterrier;;
+246;Kill Bill: Volume 1;2003;Quentin Tarantino;;8
+247;Kill Bill: Volume 2;2004;Quentin Tarantino;;8
+248;Killer Elite;2011;Gary McKendry;;
+249;Killing Them Softly;2012;Andrew Dominik;;5
+250;Kindsköpfe 2;2013;Dennis Dugan;;5
+251;King Arthur: Legend of the Sword;2017;Guy Ritchie;;7
+252;Kingsman: The Secret Service;2014;Matthew Vaughn;;8
+253;Knight and Day;2010;James Mangold;;6
+254;Kong: Skull Island;2017;Jordan Vogt-Roberts;;7
+255;Küss den Frosch;2009;Ron Clements;Disney;0
+256;Last Vegas;2013;Jon Turteltaub;;8
+257;Legend of Tarzan;2016;David Yates;;7
+258;Legend: Aufstieg und Fall zweier berüchtigter Brüder;2015;Brian Helgeland;;9
+259;Les Misérables;2012;Tom Hooper;Musical;5
+260;Lincoln;2012;Steven Spielberg;;7
+261;Lockout;2012;Steve Saint Leger;;7
+262;Logan: The Wolverine;2017;James Mangold;;8
+263;Lone Survivor;2013;Peter Berg;;
+264;Love, Rosie - Für immer vielleicht;2014;Christian Ditter;;
+265;Lucy;2014;Luc Besson;;7
+266;M:I-2;2000;John Woo;;7
+267;Madagascar;2005;Eric Darnell;Disney;0
+268;Magic Mike;2012;Steven Soderbergh;;6
+269;Magic Mike XXL;2015;Gregory Jacobs;;6
+270;Maleficent: Die dunkle Fee;2014;Robert Stromberg;Fantasy;7
+271;Man On Fire: Mann unter Feuer;2004;Tony Scott;;
+272;Man of Steel;2013;Zack Snyder;;7
+273;Marvel's The Avengers;2012;Joss Whedon;;8
+274;Maze Runner: Die Auserwählten in der Todeszone;2018;Wes Ball;;7
+275;Mechanic: Resurrection;2016;Dennis Gansel;;6
+276;Mein Freund, der Delfin;2011;Charles Martin Smith;;5
+277;Men in Black;1997;Barry Sonnenfeld;;8
+278;Men in Black 3;2012;Barry Sonnenfeld;;7
+279;Men in Black II;2002;Barry Sonnenfeld;;7
+280;Merida - Legende der Highlands;2012;Mark Andrews;Disney;0
+281;Mile 22;2018;Peter Berg;;6
+282;Mission: Impossible;1996;Brian De Palma;;7
+283;Mission: Impossible - Phantom Protokoll;2011;Brad Bird;;8
+284;Mission: Impossible III;2006;J.J. Abrams;;7
+285;Mission: Impossible: Fallout;2018;Christopher McQuarrie;;8
+286;Mission: Impossible: Rogue Nation;2015;Christopher McQuarrie;;8
+287;Monuments Men: Ungewöhnliche Helden;2013;George Clooney;;8
+288;Mortal Kombat;1995;Paul W.S. Anderson;;7
+289;Mulan;1998;Tony Bancroft;Disney;0
+290;Noah;2014;Darren Aronofsky;;9
+291;Non-Stop;2014;Jaume Collet-Serra;;
+292;Oblivion;2013;Joseph Kosinski;;
+293;Olympus Has Fallen;2013;Antoine Fuqua;;
+294;Operation Walküre: Das Stauffenberg Attentat;2008;Bryan Singer;;
+295;Operation: Kingdom;2007;Peter Berg;;
+296;Pacific Rim;2013;Guillermo del Toro;;
+297;Pacific Rim: Uprising;2018;Steven S. DeKnight;;
+298;Pain & Gain;2013;Michael Bay;;
+299;Pakt der Rache;2011;Roger Donaldson;;
+300;Parker;2013;Taylor Hackford;;
+301;Passengers;2016;Morten Tyldum;;
+302;Patton;1970;Franklin J. Schaffner;;
+303;Peter Hase;2018;Will Gluck;;
+304;Peter Pan;1953;Clyde Geronimi;;
+305;Pets;2016;Yarrow Cheney;;
+306;Phantastische Tierwesen und wo sie zu finden sind;2016;David Yates;;
+307;Pirates of the Caribbean: Salazars Rache;2017;Joachim RÃ¸nning;;
+308;Pitch Black;1999;David Twohy;;
+309;Pitch Perfect;2012;Jason Moore;;
+310;Pitch Perfect 2;2015;Elizabeth Banks;;
+311;Pocahontas;1995;Mike Gabriel;;
+312;Power Rangers;2017;Dean Israelite;;
+313;Priest;2011;Scott Charles Stewart;;
+314;Project X;2012;Nima Nourizadeh;;
+315;R.E.D. 2: Noch Älter. Härter. Besser.;2013;Dean Parisot;;
+316;R.E.D.: Älter. Härter. Besser.;2010;Robert Schwentke;;
+317;R.I.P.D. - Rest in Peace Department;2013;Robert Schwentke;;
+318;Ratatouille;2007;Brad Bird;;
+319;Ready Player One;2018;Steven Spielberg;;
+320;Real Steel;2011;Shawn Levy;;
+321;Red Tails;2012;Anthony Hemingway;;
+322;Resident Evil;2002;Paul W.S. Anderson;;
+323;Resident Evil: Afterlife;2010;Paul W.S. Anderson;;
+324;Resident Evil: Apocalypse;2004;Alexander Witt;;
+325;Resident Evil: Extinction;2007;Russell Mulcahy;;
+326;Resident Evil: Retribution;2012;Paul W.S. Anderson;;
+327;Resident Evil: The Final Chapter;2016;Paul W.S. Anderson;;
+328;RoboCop;2014;JosÃ© Padilha;;
+329;RockNRolla;2008;Guy Ritchie;;
+330;Rogue One: A Star Wars Story;2016;Gareth Edwards;;
+331;Rubinrot;2013;;;
+332;Sabotage;2014;David Ayer;;
+333;San Andreas;2015;Brad Peyton;;
+334;Schlussmacher;2013;Matthias Schweighöfer;;
+335;Schneewittchen und die sieben Zwerge;1937;William Cottrell;;
+336;Seelen;2013;Andrew Niccol;;
+337;Seventh Son;2014;Sergey Bodrov;;
+338;Sherlock Holmes;2009;Guy Ritchie;;
+339;Sherlock Holmes: Spiel im Schatten;2011;Guy Ritchie;;
+340;Shoot 'Em Up;2007;Michael Davis;;
+341;Shooter;2007;Antoine Fuqua;;
+342;Sieben Leben;2008;Gabriele Muccino;;
+343;Skyfall;2012;Sam Mendes;;
+344;Sleepless: Eine tödliche Nacht;2017;Baran bo Odar;;
+345;Snow White & the Huntsman;2012;Rupert Sanders;;
+346;Snowpiercer;2013;Joon-ho Bong;;
+347;Solo: A Star Wars Story;2018;Ron Howard;;
+348;Southpaw;2015;Antoine Fuqua;;
+349;Spider-Man;2002;Sam Raimi;;
+350;Spider-Man 2;2004;Sam Raimi;;
+351;Spider-Man 3;2007;Sam Raimi;;
+352;Spider-Man: Homecoming;2017;Jon Watts;;
+353;Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen;2012;Tarsem Singh;;
+354;Split;2016;M. Night Shyamalan;;
+355;Star Trek;2009;J.J. Abrams;;
+356;Star Trek - Into Darkness;2013;J.J. Abrams;;
+357;Star Trek Beyond;2016;Justin Lin;;
+358;Star Trek I: The Motion Picture;1979;Robert Wise;;
+359;Star Trek II: The Wrath of Khan;1982;Nicholas Meyer;;
+360;Star Trek III: The Search for Spock;1984;Leonard Nimoy;;
+361;Star Trek IV: The Voyage Home;1986;Leonard Nimoy;;
+362;Star Trek IX: Insurrection;1998;Jonathan Frakes;;
+363;Star Trek V: The Final Frontier;1989;William Shatner;;
+364;Star Trek VI: The Undiscovered Country;1991;Nicholas Meyer;;
+365;Star Trek VII: Generations;1994;David Carson;;
+366;Star Trek VIII: First Contact;1996;Jonathan Frakes;;
+367;Star Trek X: Nemesis;2002;Stuart Baird;;
+368;Star Trek: Evolutions;2009;Tim King;;
+369;Star Trek: Into Darkness;2013;J.J. Abrams;;
+370;Star Trek: The Captains' Summit;2009;Tim King;;
+371;Star Wars - Das Erwachen der Macht;2015;J.J. Abrams;;
+372;Star Wars - Die letzten Jedi;2017;Rian Johnson;;
+373;Star Wars: Die dunkle Bedrohung;1999;George Lucas;;
+374;Star Wars: Angriff der Klonkrieger;2002;George Lucas;;
+375;Star Wars: Die Rache der Sith;2005;George Lucas;;
+376;Star Wars: Eine neue Hoffnung;1977;George Lucas;;
+377;Star Wars: Das Imperium schlägt zurück;1980;Irvin Kershner;;
+378;Star Wars: Die Rückkehr der Jedi Ritter;1983;Richard Marquand;;
+379;Stirb langsam - Ein guter Tag zum Sterben;2013;John Moore;;
+380;Stirb langsam 4.0;2007;Len Wiseman;;
+381;Street Fighter - Die entscheidende Schlacht;1994;Steven E. de Souza;;
+382;Street Fighter: Assassin's Fist;2014;Joey Ansah;;
+383;Suicide Squad;2016;David Ayer;;
+384;Sully;2016;Clint Eastwood;;
+385;Susi und Strolch;;;;
+386;Susi und Strolch II: Kleine Strolche - Großes Abenteuer!;;;;
+387;Taffe Mädels;2013;Paul Feig;;
+388;Tarzan;1999;Chris Buck;;
+389;Ted;2012;Seth MacFarlane;;
+390;Ted 2;2015;Seth MacFarlane;;
+391;Teenage Mutant Ninja Turtles;2014;Jonathan Liebesman;;
+392;Teenage Mutant Ninja Turtles: Out of the Shadows;2016;Dave Green;;
+393;The 12th Man - Kampf ums Ãœberleben;2017;Harald Zwart;;
+394;The Accountant;2016;Gavin O'Connor;;
+395;The Amazing Spider-Man;2012;Marc Webb;;
+396;The Amazing Spider-Man 2: Rise of Electro;2014;Marc Webb;;
+397;The Circle;2017;James Ponsoldt;;
+398;The Commuter;2018;Jaume Collet-Serra;;
+399;The Da Vinci Code: Sakrileg;2006;Ron Howard;;
+400;The Dark Knight;2008;Christopher Nolan;;
+401;The Dark Knight Rises;2012;Christopher Nolan;;
+402;The Equalizer;2014;Antoine Fuqua;;
+403;The Equalizer 2: Alles hat Konsequenzen;2018;Antoine Fuqua;;
+404;The Expendables;2010;Sylvester Stallone;;
+405;The Expendables 2: Back for War;2012;Simon West;;
+406;The Fast and the Furious;2001;Rob Cohen;;
+407;The Fast and the Furious: Tokyo Drift;2006;Justin Lin;;
+408;The First Avenger: Civil War;2016;Anthony Russo;;
+409;The Great Wall;2016;Yimou Zhang;;
+410;The Green Hornet;2010;Michel Gondry;;
+411;The Green Mile;1999;Frank Darabont;;
+412;The Hateful 8;2015;Quentin Tarantino;;
+413;The Homesman;2014;Tommy Lee Jones;;
+414;The Huntsman & the Ice Queen;2016;Cedric Nicolas-Troyan;;
+415;The Jungle Book;2016;Jon Favreau ;;
+416;The Last Stand;2013;Kim Jee-woon;;
+417;The Mechanic;2011;Simon West;;
+418;The Nice Guys;2016;Shane Black;;
+419;The Pacific;2010;Jeremy Podeswa;;
+420;The Return of the First Avenger;2014;Anthony Russo;;
+421;The Revenant: Der Rückkehrer;2015;Alejandro G. IÃ±Ã¡rritu;;
+422;The Wolf of Wall Street;2013;Martin Scorsese;;
+423;Thor;2011;Kenneth Branagh;;
+424;Thor: The Dark Kingdom;2013;Alan Taylor;;
+425;TinkerBell - Das Geheimnis der Feenflügel;2012;Roberts Gannaway;;
+426;TinkerBell und die Piratenfee;2014;;;
+427;Titanic;1997;James Cameron;;
+428;Tomb Raider;2018;Roar Uthaug;;
+429;Top Gun;1986;Tony Scott;;
+430;Transcendence;2014;Wally Pfister;;
+431;Transporter I;2002;Louis Leterrier;;
+432;Transporter II;2005;Louis Leterrier;;
+433;Transporter III;2015;Camille Delamarre;;
+434;Tränen der Sonne;2003;Antoine Fuqua;;
+435;Triple 9;2016;John Hillcoat;;
+436;Troja;2004;Wolfgang Petersen;;
+437;Trolls;2016;Walt Dohrn;;
+438;Türkisch für Anfänger;2012;Bora Dagtekin;;
+439;Underworld;2003;Len Wiseman;;
+440;Underworld: Aufstand der Lykaner;2009;Patrick Tatopoulos;;
+441;Underworld: Awakening;2012;MÃ¥ns MÃ¥rlind;;
+442;Underworld: Blood Wars;2016;Anna Foerster;;
+443;Underworld: Evolution;2006;Len Wiseman;;
+444;Undisputed: Sieg ohne Ruhm;2002;;;
+445;Unknown Identity;2011;Jaume Collet-Serra;;
+446;Vaiana;2016;Ron Clements;;
+447;Valerian: Die Stadt der tausend Planeten;2017;Luc Besson;;
+448;Vamps: Dating mit Biss;2012;Amy Heckerling;;
+449;Vaterfreuden;2014;Matthias SchweighÃ¶fer;;
+450;Vengeance: Pfad der Vergeltung;2017;Johnny Martin;;
+451;Vergessene Welt: Jurassic Park;1997;Steven Spielberg;;
+452;Vice;2015;Brian A Miller;;
+453;Voll abgezockt;2013;Seth Gordon;;
+454;Wanted;2008;Timur Bekmambetov;;
+455;War;2007;Philip G. Atwell;;
+456;Warcraft: The Beginning;2016;Duncan Jones;;
+457;Warm Bodies: Zombies mit Herz;2013;Jonathan Levine;;
+458;Warrior;2011;Gavin O'Connor;;
+459;Wenn ich bleibe;2014;R.J. Cutler;;
+460;White House Down;2013;Roland Emmerich;;
+461;Wild Wild West;1999;Barry Sonnenfeld;;
+462;Wind River;2017;Taylor Sheridan;;
+463;Wir waren Helden;2002;Randall Wallace;;
+464;Wolverine: Weg des Kriegers;2013;James Mangold;;
+465;Wonder Woman;2017;Patty Jenkins;;
+466;World War Z;2013;Marc Forster;;
+467;X-Men;2000;Bryan Singer;;
+468;X-Men 2;2003;Bryan Singer;;
+469;X-Men Origins: Wolverine;2009;Gavin Hood;;
+470;X-Men: Apocalypse;2016;Bryan Singer;;
+471;X-Men: Der letzte Widerstand;2006;Brett Ratner;;
+472;X-Men: Erste Entscheidung;2011;Matthew Vaughn;;
+473;X-Men: Zukunft ist Vergangenheit;2014;Bryan Singer;;
+474;Zero Dark Thirty;2012;Kathryn Bigelow;;
+475;Ziemlich beste Freunde;2011;Olivier Nakache;;
+476;Zorn der Titanen;2012;Jonathan Liebesman;;
+477;Zwei an einem Tag;2011;Lone Scherfig;;
+478;xXx: Die Rückkehr des Xander Cage;2017;D.J. Caruso;;

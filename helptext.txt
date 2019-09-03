@@ -1,0 +1,35 @@
+<html>
+<head></head>
+<body>
+<p><b>+++ Hilfe zu Alex Filmdatenbank +++</b></p>
+
+<p><u>Bewertung [x]:</u><br /><font color="red">IN ARBEIT</font>
+Um einen Film nach persönlichen Bewertungen zu erhalten, als Betreff: 
+Bewertung 1 (oder eine Zahl bis einschl 10)</p>
+
+<p><u>[Genre]:</u><br /><font color="red">IN ARBEIT</font>
+Um einen Filmtipp nach Genre zu bekommen, einfach das gewünschte Genre eingeben. <br>
+-> Für eine Genreübersicht einfach Genrehilfe als Betreff senden.</p>
+<p><u>Aktuelle Genres:</u><br />Thriller, Romantik, Endzeit, Comedy, Bollywood, Action, </p><p><u>Besties:</u><br />
+Es werden alle Filme die mit 8 oder besser bewertet wurden, vorgeschlagen.</p>
+
+<p><u>Zufall:</u><br />
+Schickt einen zufällig ausgewählten Film ohne irgendwelche Suchkriterien.</p>
+
+<p><u>Alles:</u><br />
+Schickt eine Übersicht aller eingetragenen Filme</p>
+
+<p>viel Spaß wünscht <b>Alexander Wiltz</b></p>
+<hr></hr>
+<p>Für alle Filmfreunde: <a href="https://www.imdb.com/calendar/?ref_=nv_mv_cal">Alle Neuerscheinungen auf IMDB</a></p>
+<hr></hr>
+<p><u>Wichtiger Hinweis:</u><br />
+Die Formatreglen müssen eingehalten werden sonst kommen keine Infos!</p>
+
+<p><u>Regeln:</u><br />
+Werden mehr als drei Mails innerhalb einer Minute als Abfrage gesandt wird eine
+temporäre Sperre von 5 Minuten eingestellt.
+Bei mehr als drei Sperren innerhalb einer Stunde, wird man dauerhaft gesperrt und kann nur auf Anfrage
+vom Servicebetreiber entsperrt werden!</p>
+</body>
+</html>
